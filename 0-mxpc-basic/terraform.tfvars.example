@@ -1,0 +1,6 @@
+principalAppId                  = "enter-your-principal-id-here"
+principalAppSecret              = "enter-your-principal-password-here"
+prefix                          = "mxpcsamplezero"
+location                        = "eastus"
+mssqlserveradmin_username       = "e.g. MsSqlDbAdminDemoUser"
+mssqlserveradmin_password       = "e.g. MsSqlDbAdminPassword123"
