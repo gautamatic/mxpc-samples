@@ -5,8 +5,8 @@
 1. Get the git repo
 
     > 
-        git clone 'https://myrepo.git.com'
-        cd /my/dir`
+        git clone 'https://github.com/gautamatic/mxpc-samples'
+        cd mxpc-samples/0-mxpc-basic/
         mv terraform.tfvars.example terraform.tfvars
  
 2. Edit the `terraform.tfvars` file to enter your credentials and tweak the variables, as needed.
